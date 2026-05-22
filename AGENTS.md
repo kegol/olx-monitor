@@ -23,7 +23,7 @@ Zbudowane z [cli-printing-press](https://github.com/musana/cli-printing-press).
 olx-monitor doctor                              # diagnostyka
 olx-monitor api offers list-search ...          # wyszukiwanie ofert
 olx-monitor api offers list-search-categories   # kategorie
-olmon api offers list-filters ...               # filtry
+olx-monitor api offers list-filters ...         # filtry
 ```
 
 ## Ważne
